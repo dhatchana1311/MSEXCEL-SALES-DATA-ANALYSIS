@@ -24,3 +24,21 @@ The analysis is based on the following data:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/sales-data-analysis.git
+
+2. Open the Excel file: PROJECT FILES IN SALES FOR EXCEL.xlsx
+3. Navigate to the DASHBOARD sheet for the interactive view.
+   
+## Usage
+- Use the slicers on the dashboard to filter data by region, month, or customer.
+- Explore different charts to identify sales trends and performance gaps.
+- Adjust filters in the Target and Customer sheets to see how targets align with actuals.
+
+## Visualizations
+- Sales Trend Analysis: Line charts showing sales over time.
+- Regional Sales Distribution: Bar charts for sales performance by region.
+- Top Customers: Highlighting top-performing customers.
+- Target vs. Actual Comparison: Gauge charts to track progress.
+
+## Dashboard image
+![Screenshot 2024-10-18 143745](https://github.com/user-attachments/assets/dd1a3cfd-4d0c-44e0-8f63-3e0c396f0337)
+
