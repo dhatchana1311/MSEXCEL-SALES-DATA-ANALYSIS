@@ -40,5 +40,6 @@ The analysis is based on the following data:
 - Target vs. Actual Comparison: Gauge charts to track progress.
 
 ## Dashboard image
-![Screenshot 2024-10-18 143745](https://github.com/user-attachments/assets/dd1a3cfd-4d0c-44e0-8f63-3e0c396f0337)
+![excel sales dashboard  image](https://github.com/user-attachments/assets/360f6abb-fae8-4801-9f7f-e8e739a72827)
+
 
